@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/project-hellhound-org/.github/main/profile/project-hellhound.gif" alt="Project-Hellhound" width="800"/>
+  <img src="https://github.com/project-hellhound-org/.github/blob/main/profile/projecthellhound.png" alt="Project-Hellhound" width="800"/>
 
   # We Build What We Think.
 
